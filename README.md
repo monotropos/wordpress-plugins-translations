@@ -1,2 +1,2 @@
-# WordPress=plugins-translations
+# WordPress-plugins-translations
 
