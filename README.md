@@ -4,3 +4,5 @@
 
  - anspress
  - dw
+ - this-day-in-history
+ - watu

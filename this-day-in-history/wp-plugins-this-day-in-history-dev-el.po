@@ -1,0 +1,709 @@
+# Translation of Plugins - This Day In History - Development (trunk) in Greek
+# This file is distributed under the same license as the Plugins - This Day In History - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-22 03:37+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.6\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - This Day In History - Development (trunk)\n"
+"POT-Creation-Date: \n"
+"Last-Translator: Apostolos P. Tsompanopoulos <apt@aptlogs.com>\n"
+"Language-Team: \n"
+
+#: this-day-in-history.php:309
+msgid "You must enter name for the event - for example"
+msgstr "Πρέπει να εισάγετε το όνομα για το γεγονός - για παράδειγμα"
+
+#: tdih-list-table.class.php:465
+msgid "You must enter a name for the event."
+msgstr "Πρέπει να εισάγετε ένα όνομα για το γεγονός."
+
+#: this-day-in-history.php:300
+msgid "You must enter a full date in the format %s, for example:"
+msgstr "Πρέπει να εισάγετε μία πλήρη ημερομηνία με τη μορφή %s, για παράδειγμα:"
+
+#: tdih-list-table.class.php:461
+msgid "You must enter a date for the event."
+msgstr "Πρέπει να εισάγετε μια ημερομηνία για το γεγονός."
+
+#: this-day-in-history.php:182
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Δεν έχετε τα κατάλληλα δικαιώματα για πρόσβαση στη σελίδα."
+
+#: this-day-in-history.php:314
+msgid "You can choose an event type for each event from a list of custom event types which you can enter on the event types screen."
+msgstr "Μπορείτε να επιλέξετε έναν τύπο γεγονότος για κάθε γεγονός από μία λίστα καθορισμένων τύπων γεγονότων τους οποίους μπορείτε να ορίσετε στη σελίδα τύπων γεγονότων."
+
+#: this-day-in-history.php:341
+msgid "You can add a <code>[tdih_tab]</code> shortcode to any post or page to display a table of events."
+msgstr "Μπορείτε να προσθέσετε το σύντομο κώδικα <code>[tdih_tab]</code> σε κάθε άρθρο ή σελίδα για να προβάλετε έναν πίνακα από γεγονότα."
+
+#: this-day-in-history.php:319
+msgid "You can add a <code>[tdih]</code> shortcode to any post or page to display a list of events for today as per the widget."
+msgstr "Μπορείτε να προσθέσετε το σύντομο κώδικα <code>[tdih]</code> σε κάθε άρθρο ή σελίδα για να προβάλετε μία λίστα γεγονότων για σήμερα όπως δείχνει η μικροεφαρμογή."
+
+#: tdih-widget.php:215
+msgid "Yesterday"
+msgstr "Χθες"
+
+#: this-day-in-history.php:259
+msgid "Yes"
+msgstr "Ναι"
+
+#: this-day-in-history.php:364
+msgid "year=0 will display events with no year."
+msgstr "year=0 θα προβάλει γεγονότα χωρίς συγκεκριμένη χρονιά."
+
+#: this-day-in-history.php:220
+msgid "Year First (YYYY-MM-DD)"
+msgstr "Πρώτα ο χρόνος (YYYY-MM-DD)"
+
+#: this-day-in-history.php:329 this-day-in-history.php:352
+msgid "year (-9999 to 9999, 0) - enter a year to show only events in that year. Shows all years by default."
+msgstr "χρονιά (-9999 μέχρι 9999, 0) - εισάγετε μία χρονιά για προβολή μόνο των γεγονότων αυτής της χρονιάς. Εξ ορισμού προβάλει όλα τα χρόνια."
+
+#: this-day-in-history.php:310
+msgid "WordPress is über cool!"
+msgstr "Το WordPress είναι τέλειο!"
+
+#: this-day-in-history.php:502
+msgid "View Historic Events"
+msgstr "Προβολή Ιστορικών Γεγονότων"
+
+#: this-day-in-history.php:501
+msgid "View Historic Event"
+msgstr "Προβολή Ιστορικού Γεγονότος"
+
+#: this-day-in-history.php:439
+msgid "View Event Type"
+msgstr "Προβολή Τύπου Γεγονότος"
+
+#: this-day-in-history.php:247
+msgid "Use BCE"
+msgstr "Χρήση BCE"
+
+#: this-day-in-history.php:246
+msgid "Use BC"
+msgstr "Χρήση BC"
+
+#: this-day-in-history.php:511
+msgid "Uploaded to this historic event"
+msgstr "Μεταφορτώθηκε στο παρόν ιστορικό γεγονός"
+
+#: this-day-in-history.php:440
+msgid "Update Event Type"
+msgstr "Ενημέρωση Τύπου Γεγονότος"
+
+#: this-day-in-history.php:326 this-day-in-history.php:349
+msgid "type - enter a type to show only events of that type. Shows all types by default."
+msgstr "τύπος - εισάγετε έναν τύπο για προβολή μόνο γεγονότων αυτού του τύπου. Εξ ορισμού προβάλει όλους τους τύπους."
+
+#: tdih-list-table.class.php:375 tdih-shortcodes.php:154
+msgid "Type"
+msgstr "Τύπος"
+
+#: tdih-widget.php:212
+msgid "Tomorrow"
+msgstr "Αύριο"
+
+#: tdih-widget.php:209
+msgid "Today"
+msgstr "Σήμερα"
+
+#: tdih-widget.php:137
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: this-day-in-history.php:295
+msgid "This page provides the ability for you to add, edit and remove historic (or for that matter, future) events."
+msgstr "Αυτή η σελίδα σας δίνει τη δυνατότητα για προσθήκη, ενημέρωση και διαγραφή ιστορικών (ή για αυτό το λόγο, μελλοντικών) γεγονότων."
+
+#: this-day-in-history.php:302
+msgid "This format is used for administration screens and also as the default date format in the <code>[tdih_tab]</code> shortcode."
+msgstr "Αυτή η μορφή χρησιμοποιείται στις οθόνες διαχείρισης και είναι η προκαθορισμένη μορφή ημερομηνίας στο σύντομο κώδικα <code>[tdih_tab]</code>."
+
+#: this-day-in-history.php:186
+msgid "This Day In History Options"
+msgstr "Επιλογές This Day In History"
+
+#. Plugin Name of the plugin
+#: tdih-widget.php:6 tdih-widget.php:133 tdih-widget.php:245
+#: tdih-list-table.class.php:353 tdih-list-table.class.php:405
+#: this-day-in-history.php:146 this-day-in-history.php:147
+#: this-day-in-history.php:148 this-day-in-history.php:149
+msgid "This Day In History"
+msgstr "This Day In History"
+
+#: this-day-in-history.php:375
+msgid "This Day in History"
+msgstr "This Day in History"
+
+#. Description of the plugin
+msgid "This \"On This Day\" plugin allows you to enter historic or future events and display them via the included widget and shortcodes."
+msgstr "Αυτό το πρόσθετο σας επιτρέπει να εισάγετε ιστορικά ή μελλοντικά γεγονότα και να τα προβάλετε μέσω της μικροεφαρμογής και των σύντομων κωδικών."
+
+#: this-day-in-history.php:342
+msgid "There are thirteen optional attributes for this shortcode:"
+msgstr "Υπάρχουν δεκατρία προαιρετικά χαρακτηριστικά για αυτό το σύντομο κωδικό:"
+
+#: this-day-in-history.php:320
+msgid "There are eleven optional attributes for this shortcode:"
+msgstr "Υπάρχουν ένδεκα προαιρετικά χαρακτηριστικά για αυτό το σύντομο κωδικό:"
+
+#: tdih-list-table.class.php:377
+msgid "The type of event."
+msgstr "Ο τύπος του γεγονότος."
+
+#: tdih-list-table.class.php:372
+msgid "The name of the event."
+msgstr "Το όνομα του γεγονότος."
+
+#: this-day-in-history.php:303
+msgid "The format can be changed in the This Day In History settings screen."
+msgstr "Η μορφή μπορεί να μεταβληθεί στη σελίδα ρυθμίσεων του This Day In History."
+
+#: tdih-list-table.class.php:367
+msgid "The date the event occured (enter date in %s format)."
+msgstr "Η ημερομηνία που συνέβη το γεγονός (εισαγωγή ημερομηνία με τη μορφή %s)."
+
+#: this-day-in-history.php:301
+msgid "the 20<sup>th</sup> November 1497 should be entered as <code>%s"
+msgstr "η 20<sup>η</sup> Νοεμβρίου 1497 πρέπει να εισαχθεί ως <code>%s"
+
+#: this-day-in-history.php:373
+msgid "tdih_tab Shortcode"
+msgstr "σύντομος κωδικός tdih_tab"
+
+#: this-day-in-history.php:339
+msgid "tdih Shortcode"
+msgstr "σύντομος κωδικός tdih"
+
+#: this-day-in-history.php:375
+msgid "Support Forum"
+msgstr "Κανάλι Υποστήριξης"
+
+#: this-day-in-history.php:325
+msgid "show_year (0, 1) - 1 shows the year of the event (default) and 0 does not."
+msgstr ""
+
+#: this-day-in-history.php:324 this-day-in-history.php:348
+msgid "show_type (0, 1) - 1 shows event types (default) and 0 does not."
+msgstr ""
+
+#: this-day-in-history.php:323
+msgid "show_link (0-2) - 0 shows a more link if there is more to show, 1 links the title if there is more to show and 2 always links the title."
+msgstr ""
+
+#: this-day-in-history.php:347
+msgid "show_link (0, 1, 2) - 0 shows a more link if there is more to show, 1 links the title if there is more to show and 2 always links the title."
+msgstr ""
+
+#: this-day-in-history.php:346
+msgid "show_head (0, 1) - 1 shows a header row (default) and 0 does not."
+msgstr ""
+
+#: this-day-in-history.php:345
+msgid "show_dow (0, 1) - 1 shows the day of the week and 0 does not (default)."
+msgstr ""
+
+#: this-day-in-history.php:344
+msgid "show_date (0, 1) - 1 shows the date (default) and 0 does not."
+msgstr ""
+
+#: this-day-in-history.php:322
+msgid "show_age (0, 1) - 1 shows the age in years of the event in brackets after the title and 0 does not (default)."
+msgstr ""
+
+#: tdih-widget.php:145
+msgid "Show year"
+msgstr "Προβολή χρονιάς"
+
+#: tdih-widget.php:199
+msgid "Show up to %d events"
+msgstr "Προβολή μέχρι %d γεγονότων"
+
+#: tdih-widget.php:195
+msgid "Show only 1 event"
+msgstr "Προβολή μόνο ενός γεγονότος"
+
+#: tdih-widget.php:156
+msgid "Show More... link when more tag is used"
+msgstr "Προβολή συνδέσμου More... όταν χρησιμοποιείται η ετικέτα more"
+
+#: tdih-widget.php:152
+msgid "Show Links:"
+msgstr "Προβολή Συνδέσμων:"
+
+#: tdih-widget.php:148
+msgid "Show event type"
+msgstr "Προβολή τύπου γεγονότος"
+
+#: tdih-widget.php:142
+msgid "Show event age"
+msgstr "Προβολή ετών από το γεγονός"
+
+#: tdih-widget.php:192
+msgid "Show all events"
+msgstr "Προβολή όλων των γεγονότων"
+
+#: this-day-in-history.php:375 this-day-in-history.php:532
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: this-day-in-history.php:362
+msgid "Setting period will override any values for day, month and year."
+msgstr ""
+
+#: this-day-in-history.php:361
+msgid "Setting date_format will override the tdih admin format and the day of the week setting."
+msgstr ""
+
+#: this-day-in-history.php:447
+msgid "Separate event types with commas"
+msgstr "Διαχωρίστε τους τύπους των γεγονότων με κόμματα"
+
+#: tdih-list-table.class.php:410 this-day-in-history.php:503
+msgid "Search Historic Events"
+msgstr "Αναζήτηση Ιστορικών Γεγονότων"
+
+#: this-day-in-history.php:445
+msgid "Search Event Types"
+msgstr "Αναζήτηση Τύπων Γεγονότων"
+
+#: tdih-list-table.class.php:380 this-day-in-history.php:190
+msgid "Save Changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: this-day-in-history.php:375
+msgid "Rate and Review"
+msgstr "Βαθμολογία και Αξιολόγηση"
+
+#: tdih-widget.php:235
+msgid "Prefix the year with this text:"
+msgstr ""
+
+#: this-day-in-history.php:446
+msgid "Popular Event Types"
+msgstr "Δημοφιλείς Τύποι Γεγονότων"
+
+#: this-day-in-history.php:375
+msgid "Plugin Information"
+msgstr "Πληροφορίες Πρόσθετου"
+
+#: tdih-list-table.class.php:469
+msgid "Please enter dates in the format %s."
+msgstr "Εισαγωγή ημερομηνιών με τη μορφή %s."
+
+#: this-day-in-history.php:354
+msgid "period_days (1-99) - enter the number of days to show for t, m, y periods only. Shows only one day by default."
+msgstr ""
+
+#: this-day-in-history.php:366
+msgid "period=c, l or n show a seven day period with the current day as the middle, last or first day."
+msgstr ""
+
+#: tdih-widget.php:205
+msgid "Period:"
+msgstr "Περίοδος:"
+
+#: this-day-in-history.php:330
+msgid "period (t, m, y) - show events for today, tomorrow and yesterday. Shows today's events by default."
+msgstr ""
+
+#: this-day-in-history.php:353
+msgid "period (a, c, l, m, n, t, w, y) - t, m, y show events for today, tomorrow and yesterday. c, l, n, w show events for current, last, next and ISO week. a shows all events. Shows today's events by default."
+msgstr ""
+
+#: this-day-in-history.php:298
+msgid "Overview"
+msgstr "Επισκόπηση"
+
+#: tdih-widget.php:188
+msgid "Number of events:"
+msgstr "Πλήθος γεγονότων:"
+
+#: tdih-list-table.class.php:376
+msgid "none"
+msgstr "κανένα"
+
+#: tdih-list-table.class.php:105
+msgid "No historic events have been found."
+msgstr "Δε βρέθηκε κανένα ιστορικό γεγονός."
+
+#: this-day-in-history.php:504
+msgid "No historic events found"
+msgstr "Δε βρέθηκε κανένα ιστορικό γεγονός"
+
+#: this-day-in-history.php:505
+msgid "No events found in Trash"
+msgstr "Δε βρέθηκαν γεγονότα στον κάδο απορριμμάτων"
+
+#: tdih-init.class.php:33
+msgid "No Events"
+msgstr "Κανένα Γεγονός"
+
+#: this-day-in-history.php:450
+msgid "No event types found."
+msgstr "Δε βρέθηκαν τύποι γεγονότων."
+
+#: tdih-widget.php:176
+msgid "No event type"
+msgstr "Απροσδιόριστο"
+
+#: this-day-in-history.php:260
+msgid "No"
+msgstr "Όχι"
+
+#: tdih-list-table.class.php:358 this-day-in-history.php:500
+msgid "New Historic Event"
+msgstr "Νέο Ιστορικό Γεγονός"
+
+#: this-day-in-history.php:442
+msgid "New Event Type Name"
+msgstr "Όνομα Νέου Τύπου Γεγονότος"
+
+#: this-day-in-history.php:358
+msgid "NB:"
+msgstr "Παρακαλώ σημειώστε:"
+
+#: tdih-list-table.class.php:370
+msgid "Name"
+msgstr "Όνομα"
+
+#: tdih-widget.php:97 tdih-shortcodes.php:79 tdih-shortcodes.php:186
+msgid "More &#8230;"
+msgstr "Περισσότερα &#8230;"
+
+#: this-day-in-history.php:365
+msgid "month=c will display the current month."
+msgstr "month=c θα προβάλει τον τρέχοντα μήνα."
+
+#: this-day-in-history.php:220
+msgid "Month First (MM-DD-YYYY)"
+msgstr "Πρώτα ο μήνας (MM-DD-YYYY)"
+
+#: this-day-in-history.php:328 this-day-in-history.php:351
+msgid "month (1-12, c) - enter a month to show only events in that month. Shows all months by default."
+msgstr "month (1-12, c) - εισαγωγή μήνα για προβολή γεγονότων μόνο αυτού του μήνα. Εξ ορισμού εμφανίζονται όλοι οι μήνες."
+
+#: tdih-list-table.class.php:465
+msgid "Missing Event Name"
+msgstr "Δεν έχει οριστεί το όνομα του γεγονότος"
+
+#: tdih-list-table.class.php:461
+msgid "Missing Event Date"
+msgstr "Δεν έχει οριστεί η ημερομηνία του γεγονότος"
+
+#: this-day-in-history.php:203
+msgid "Message for No Events"
+msgstr "Μήνυμα αν δεν υπάρχουν γεγονότα"
+
+#: this-day-in-history.php:332
+msgid "max_rows (1-99) - enter a maximum number of events to show. Shows all events by default."
+msgstr "max_rows (1-99) - εισαγωγή μέγιστου αριθμού γεγονότων για προβολή. Εξ ορισμού εμφανίζονται όλα τα γεγονότα."
+
+#: tdih-widget.php:6
+msgid "Lists the events of a given type and period."
+msgstr "Προβάλει τα γεγονότα συγκεκριμένου τύπου και περιόδου."
+
+#: tdih-widget.php:159
+msgid "Link the Post title when more tag is used"
+msgstr ""
+
+#: tdih-list-table.class.php:469
+msgid "Invalid Event Date"
+msgstr "Μη έγκυρη ημερομηνία γεγονότος"
+
+#: this-day-in-history.php:510
+msgid "Insert into historic event"
+msgstr "Εισαγωγή στο ιστορικό γεγονός"
+
+#: this-day-in-history.php:296
+msgid "If you wish you can display these via the included widget or shortcodes."
+msgstr ""
+
+#: this-day-in-history.php:272
+msgid "If you prefer the widget and shortcode not to be displayed when no events match, then leave this field empty."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://brokencrust.com/"
+msgstr "https://brokencrust.com/"
+
+#: this-day-in-history.php:146 this-day-in-history.php:512
+msgid "Historic Events"
+msgstr "Ιστορικά Γεγονότα"
+
+#: this-day-in-history.php:495
+msgctxt "post type general name"
+msgid "Historic Events"
+msgstr "Ιστορικά Γεγονότα"
+
+#: this-day-in-history.php:509
+msgid "Historic Event Attributes"
+msgstr "Χαρακτηριστικά Ιστορικού Γεγονότος"
+
+#: this-day-in-history.php:508
+msgid "Historic Event Archives"
+msgstr "Αρχεία Ιστορικού Γεγονότος"
+
+#: this-day-in-history.php:115
+msgid "Historic Event"
+msgstr "Ιστορικό Γεγονός"
+
+#: this-day-in-history.php:496
+msgctxt "post type singular name"
+msgid "Historic Event"
+msgstr "Ιστορικό Γεγονός"
+
+#: tdih-widget.php:167
+msgid "Filter events by type:"
+msgstr ""
+
+#: this-day-in-history.php:202
+msgid "Exclude Search Results"
+msgstr "Εξαίρεση από τα Αποτελέσματα Αναζήτησης"
+
+# Question mark in Greek is ";"
+#: this-day-in-history.php:262
+msgid "Exclude Historic Events from search results?"
+msgstr "Να εξαιρεθούν τα Ιστορικά Γεγονότα από τα αποτελέσματα αναζήτησης;"
+
+#: this-day-in-history.php:334 this-day-in-history.php:368
+msgid "Example use:"
+msgstr "Παράδειγμα χρήσης:"
+
+#: this-day-in-history.php:568
+msgid "Events <strong>deleted</strong>"
+msgstr "Τα γεγονότα <strong>διαγράφηκαν</strong>"
+
+#: this-day-in-history.php:465
+msgid "Events"
+msgstr "Γεγονότα"
+
+#: tdih-widget.php:220
+msgid "Event types to exclude:"
+msgstr "Τύποι γεγονότων για εξαίρεση:"
+
+#: this-day-in-history.php:149 this-day-in-history.php:317
+#: this-day-in-history.php:436
+msgid "Event Types"
+msgstr "Τύποι Γεγονότων"
+
+#: this-day-in-history.php:434
+msgctxt "taxonomy general name"
+msgid "Event Types"
+msgstr "Τύποι Γεγονότων"
+
+#: this-day-in-history.php:435
+msgctxt "taxonomy singular name"
+msgid "Event Type"
+msgstr "Τύπος Γεγονότος"
+
+#: tdih-list-table.class.php:70
+msgid "Event Type"
+msgstr "Τύπος Γεγονότος"
+
+#: this-day-in-history.php:312
+msgid "Event Names"
+msgstr "Ονόματα γεγονότων"
+
+#: tdih-list-table.class.php:69
+msgid "Event Name"
+msgstr "Όνομα Γεγονότος"
+
+#: tdih-list-table.class.php:71
+msgid "Event Modified"
+msgstr "Τροποποιημένο Γεγονός"
+
+#: this-day-in-history.php:307
+msgid "Event Dates"
+msgstr "Ημερομηνίες Γεγονότος"
+
+#: this-day-in-history.php:200
+msgid "Event Date Display Format"
+msgstr ""
+
+#: tdih-list-table.class.php:68
+msgid "Event Date"
+msgstr "Ημερομηνία Γεγονότος"
+
+#: this-day-in-history.php:566
+msgid "Event <strong>updated</strong>"
+msgstr "Το γεγονός <strong>ενημερώθηκε</strong>"
+
+#: this-day-in-history.php:567
+msgid "Event <strong>deleted</strong>"
+msgstr "Το γεγονός <strong>διαγράφηκε</strong>"
+
+#: this-day-in-history.php:565
+msgid "Event <strong>created</strong>"
+msgstr "Το γεγονός <strong>δημιουργήθηκε</strong>"
+
+#: tdih-shortcodes.php:156
+msgid "Event"
+msgstr "Γεγονός"
+
+#: this-day-in-history.php:305
+msgid "Enter 0 for the year and it will be listed without a year."
+msgstr "Εισάγετε 0 ως χρονιά και θα εμφανίζεται χωρίς χρόνο."
+
+#: tdih-list-table.class.php:358 this-day-in-history.php:499
+msgid "Edit Historic Event"
+msgstr "Διόρθωση Ιστορικού Γεγονότος"
+
+#: this-day-in-history.php:438
+msgid "Edit Event Type"
+msgstr "Διόρθωση Τύπου Γεγονότος"
+
+#: this-day-in-history.php:211
+msgid "Display settings for the administration screens, widget and shortcodes."
+msgstr ""
+
+#: this-day-in-history.php:199
+msgid "Display Settings"
+msgstr "Ρυθμίσεις Προβολής"
+
+#: this-day-in-history.php:237
+msgid "Defines the date format for displaying and entering dates."
+msgstr "Ορίζει τη μορφή απεικόνισης και εισαγωγής ημερομηνιών."
+
+#: this-day-in-history.php:249
+msgid "Defines how to show dates with a negative year."
+msgstr "Ορίζει πώς θα εμφανίζονται οι ημερομηνίες με αρνητική χρονιά."
+
+#: this-day-in-history.php:363
+msgid "day, month and year can be combined."
+msgstr "ημέρα, μήνας και χρόνος μπορούν να συνδυαστούν."
+
+#: this-day-in-history.php:360
+msgid "day of the week will never be shown if the date is not shown."
+msgstr "η ημέρα της εβδομάδας δε θα εμφανίζεται αν δεν εμφανίζεται η ημερομηνία."
+
+#: this-day-in-history.php:220
+msgid "Day First (DD-MM-YYYY)"
+msgstr "Πρώτα η ημέρα (DD-MM-YYYY)"
+
+#: this-day-in-history.php:327 this-day-in-history.php:350
+msgid "day (1-31) - enter a day to show only events on that day. Shows all days by default."
+msgstr ""
+
+#: this-day-in-history.php:355
+msgid "date_format - enter a custom <a href=\"https://www.php.net/manual/en/function.date.php\">php date format</a> to display the date. Uses the tdih admin setting by default."
+msgstr "date_format - εισαγωγή προσαρμοσμένης <a href=\"https://www.php.net/manual/en/function.date.php\">μορφής ημερομηνίας</a> για εμφάνιση της ημερομηνίας. Εξ ορισμού χρησιμοποιεί την tdih admin ρύθμιση."
+
+#: this-day-in-history.php:304
+msgid "Dates from 31<sup>st</sup> December 9999 BC to 31<sup>st</sup> December 9999 AD are supported. Add "
+msgstr "Υποστηρίζονται ημερομηνίες από 31<sup>η</sup> Δεκεμβρίου 9999 π.Χ. μέχρι 31<sup>η</sup> Δεκεμβρίου 9999 μ.Χ. Προσθήκη "
+
+#: this-day-in-history.php:201
+msgid "Date Marker for Last Era"
+msgstr ""
+
+#: tdih-list-table.class.php:365 tdih-shortcodes.php:152
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: this-day-in-history.php:331 this-day-in-history.php:356
+msgid "classes - enter one or more space separated classes which will be added to the table tag."
+msgstr ""
+
+#: this-day-in-history.php:449
+msgid "Choose from the most used event types"
+msgstr "Επιλογή από τους πιο χρησιμοποιημένους τύπους γεγονότων"
+
+#. Author of the plugin
+msgid "BrokenCrust"
+msgstr "BrokenCrust"
+
+#: this-day-in-history.php:315
+msgid "An event type is optional."
+msgstr "Ο τύπος του γεγονότος είναι προαιρετικός."
+
+#: tdih-widget.php:162
+msgid "Always link the post title"
+msgstr ""
+
+#: this-day-in-history.php:507
+msgid "All Historic Events"
+msgstr "Όλα τα Ιστορικά Γεγονότα"
+
+#: this-day-in-history.php:147
+msgid "All Events"
+msgstr "Όλα τα Γεγονότα"
+
+#: tdih-widget.php:173
+msgid "All event types"
+msgstr "Όλοι οι τύποι γεγονότων"
+
+#: this-day-in-history.php:437
+msgid "All Event Types"
+msgstr "Όλοι οι Τύποι Γεγονότων"
+
+#: this-day-in-history.php:448
+msgid "Add or remove event types"
+msgstr "Προσθέστε ή αφαιρέστε τύπους γεγονότων"
+
+#: this-day-in-history.php:498
+msgid "Add New Historic Event"
+msgstr "Προσθέστε Νέο Ιστορικό Γεγονός"
+
+#: this-day-in-history.php:441
+msgid "Add New Event Type"
+msgstr "Προσθέστε Νέο Τύπο Γεγονότος"
+
+#: tdih-list-table.class.php:354 tdih-list-table.class.php:406
+msgctxt "post"
+msgid "Add New"
+msgstr "Προσθήκη νέου"
+
+#: this-day-in-history.php:148
+msgid "Add New"
+msgstr "Προσθήκη νέου"
+
+#: this-day-in-history.php:497
+msgctxt "event"
+msgid "Add New"
+msgstr "Προσθήκη νέου"
+
+#: tdih-list-table.class.php:380
+msgid "Add Event"
+msgstr "Προσθήκη Γεγονότος"
+
+#: this-day-in-history.php:370
+msgid "<code>[tdih_tab show_types=0 type='birth' classes='content dark']</code> - This shows events but not type for the event type (slug) of birth. \" content dark\" will be added to the table's class."
+msgstr ""
+
+#: this-day-in-history.php:369
+msgid "<code>[tdih_tab period='a']</code> - This shows a full list of events in date order and includes the event type."
+msgstr ""
+
+#: this-day-in-history.php:371
+msgid "<code>[tdih_tab day=20 month=8 date_format='Y']</code> - This shows events on 20<sup>th</sup> August in any year.  Format the date to only show the four digit year."
+msgstr ""
+
+#: this-day-in-history.php:335
+msgid "<code>[tdih]</code> - This shows year and event types for all event types for todays events."
+msgstr ""
+
+#: this-day-in-history.php:337
+msgid "<code>[tdih year=1066 max_rows=5]</code> - This shows year and event types for up to five events that happened on this day in 1066."
+msgstr ""
+
+#: this-day-in-history.php:336
+msgid "<code>[tdih show_type=0 type='birth']</code> - This shows year and event but not type for the event type (slug) of birth."
+msgstr ""
+
+#: tdih-widget.php:72 tdih-list-table.class.php:23 this-day-in-history.php:304
+#: this-day-in-history.php:423 tdih-shortcodes.php:62 tdih-shortcodes.php:167
+msgid " BCE"
+msgstr " BCE"
+
+#: tdih-widget.php:72 tdih-list-table.class.php:23 this-day-in-history.php:304
+#: this-day-in-history.php:423 tdih-shortcodes.php:62 tdih-shortcodes.php:167
+msgid " BC"
+msgstr " BC"
